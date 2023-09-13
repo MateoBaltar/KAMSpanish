@@ -902,48 +902,63 @@
         </Key>
         <Key ID="STR_KAT_Circulation_AED_Action_PlacePads">
             <English>Place AED Pads</English>
+            <Spanish>Colocar los electrodos DEA</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDStation_Action_PlacePads">
             <English>Station: Place AED Pads</English>
+            <Spanish>Estación: Colocar los electrodos DEA</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDVehicle_Action_PlacePads">
             <English>Vehicle: Place AED Pads</English>
+            <Spanish>Vehículo: Colocar los electrodos DEA</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDX_Action_PlacePads">
             <English>Place AED-X Pads</English>
+            <Spanish>Colocar los electrodos DEA-X</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDXStation_Action_PlacePads">
             <English>Station: Place AED-X Pads</English>
+            <Spanish>Estación: Colocar los electrodos DEA-X</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDXVehicle_Action_PlacePads">
             <English>Vehicle: Place AED-X Pads</English>
+            <Spanish>Vehículo: Colocar los electrodos DEA-X</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_Defibrillator_Action_RemovePads">
             <English>Remove Defibrillator Pads</English>
+            <Spanish>Retirar los electrodos del desfibrilador</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_Defibrillator_Action_PlacePads_Progress">
             <English>Placing Defibrillator Pads</English>
+            <Spanish>Colocacando parches desfibriladores</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_Defibrillator_Action_RemovePads_Progress">
             <English>Removing Defibrillator Pads</English>
+            <Spanish>Retirando parches del desfibrilador</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_Defibrillator_Action_Shock">
             <English>Administer Shock</English>
+            <Spanish>Administrar choque</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_Defibrillator_Action_Charge">
             <English>Charge Defibrillator</English>
+            <Spanish>Cargar desfibrilador</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_Defibrillator_Action_CancelCharge">
             <English>Cancel Charge</English>
+            <Spanish>Cancelar carga</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_ViewMonitor">
             <English>View Monitor</English>
+            <Spanish>Ver monitor</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDX_Action_ConnectMonitor">
             <English>Connect Vitals Monitor</English>
+            <Spanish>Conectar monitor de constantes vitales</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDXStation_Action_ConnectMonitor">
             <English>Station: Connect Vitals Monitor</English>
+            <Spanish>Estación: Conectar monitor de constantes vitales</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDXVehicle_Action_ConnectMonitor">
             <English>Vehicle: Connect Vitals Monitor</English>
@@ -979,9 +994,11 @@
         </Key>
         <Key ID="STR_KAT_Circulation_AEDX_Action_EnableAudio">
             <English>Vitals Monitor Audio ON</English>
+            <Spanish>Audio de monitor de signos vitales ON</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDX_Action_DisableAudio">
             <English>Vitals Monitor Audio OFF</English>
+            <Spanish>Audio de monitor de signos vitales OFF</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDX_Action_Connecting_Progress">
             <English>Connecting</English>
@@ -1097,6 +1114,7 @@
         </Key>
         <Key ID="STR_KAT_Circulation_place_AEDX">
             <English>Place AED-X</English>
+            <Spanish>Colocar DEA-X</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_PickUpAED">
             <English>Pick Up AED</English>
@@ -1116,27 +1134,35 @@
         </Key>
         <Key ID="STR_KAT_Circulation_PickUpAEDX">
             <English>Pick Up AED-X</English>
+            <Spanish>Recoger DEA-X</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDX_Monitor_ToggleVolume">
             <English>Toggle Volume</English>
+            <Spanish>Alternar volumen</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDX_Monitor_MeasureBloodPressure">
             <English>Measure Blood Pressure</English>
+            <Spanish>Medir la presión arterial</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDX_Monitor_CheckPads">
             <English>Check Pads</English>
+            <Spanish>Comprobar almohadillas</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDX_Monitor_CHARGED">
             <English>CHARGED</English>
+            <Spanish>CARGADO</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDX_Monitor_CHARGING">
             <English>CHARGING</English>
+            <Spanish>CARGANDO</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDX_Monitor_DISARMED">
             <English>DISARMED</English>
+            <Spanish>DESARMADO</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AEDX_Monitor_DeliveredEnergy">
             <English>Delivered Energy</English>
+            <Spanish>Energía suministrada</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_crosspanel">
             <English>Blood groups cheat sheet</English>
@@ -1352,9 +1378,11 @@
         </Key>
         <Key ID="STR_KAT_Circulation_AED">
             <English>AED</English>
+            <Spanish>DEA</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AED_X">
             <English>AED-X</English>
+            <Spanish>DEA-X</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AED_DISPLAYNAME">
             <English>Automated External Defibrillator</English>
@@ -1390,21 +1418,27 @@
         </Key>
         <Key ID="STR_KAT_Circulation_Activity_Shock">
             <English>%1 administered shock (%2)</English>
+            <Spanish>%1 choque administrado (%2)</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_Activity_AttachPads">
             <English>%1 attached defibrillator pads (%2)</English>
+            <Spanish>%1 parches desfibriladores conectados (%2)</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_Activity_RemovePads">
             <English>%1 removed defibrillator pads (%2)</English>
+            <Spanish>%1 parches desfibriladores desconectados (%2)</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_Activity_ConnectVitalsMonitor">
             <English>%1 connected vitals monitor</English>
+            <Spanish>%1 monitor de signos vitales conectado</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_Activity_DisconnectVitalsMonitor">
             <English>%1 disconnected vitals monitor</English>
+            <Spanish>%1 monitor de signos vitales desconectado</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_Defibrillator_PatientDisconnected">
             <English>Patient Disconnected</English>
+            <Spanish>Paciente desconectado</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_AED_X_MaxChance">
             <English>Max Success chance for AED-X</English>
@@ -1520,24 +1554,31 @@
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AEDStation_AllowInteraction">
             <English>Allow AED/X Station Interaction</English>
+            <Spanish>Permitir la interacción entre el DEA y la estación X</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AEDStation_AllowInteraction_DESCRIPTION">
             <English>Medical level required to pick up/interact with placed AED/X station</English>
+            <Spanish>Nivel médico requerido para recoger/interactuar con la estación DEA/X colocada.</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AEDX_VitalsMonitor_AttachTime">
             <English>Attach AED-X Vitals Monitor Time</English>
+            <Spanish>Tiempo para conectar el monitor de constantes vitales DEA-X</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AEDX_VitalsMonitor_DetachTime">
             <English>Detach AED-X Vitals Monitor Time</English>
+            <Spanish>Tiempo para desconectar el monitor de constantes vitales DEA-X</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_DefibrillatorPads_AttachTime">
             <English>Attach Defibrillator Pads Time</English>
+            <Spanish>Tiempo para conectar los parches desfibriladores</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_DefibrillatorPads_DetachTime">
             <English>Detach Defibrillator Pads Time</English>
+            <Spanish>Tiempo para desconectar los parches desfibriladores</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_Defibrillator_DistanceLimit">
             <English>Distance limit for defibrillators in meters</English>
+            <Spanish>Límite de distancia de los desfibriladores en metros</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_CPR_CHANCES">
             <English>Enable different CPR chances per medical level</English>
@@ -1866,39 +1907,51 @@
         </Key>
         <Key ID="STR_KAT_Circulation_SubCategory_AdvRhythms">
             <English>Advanced Rhythms</English>
+            <Spanish>Ritmos avanzados</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AdvRhythm_canDeteriorate">
             <English>Can Deteriorate</English>
+            <Spanish>Puede deteriorarse</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AdvRhythm_deteriorateTimeMax">
             <English>Random Deteriorate Time Maximum</English>
+            <Spanish>Tiempo de deterioro aleatorio máximo</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AdvRhythm_deteriorateTimeWeight">
             <English>Random Deteriorate Time Weight</English>
+            <Spanish>Tiempo de deterioro aleatorio ponderado</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AdvRhythm_deteriorateAfterTreatment">
             <English>Deteriorate After Treatment</English>
+            <Spanish>Deterioro tras el tratamiento</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AdvRhythm_PEAChance">
             <English>PEA Chance</English>
+            <Spanish>Probabilidad de AESP</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AdvRhythm_VTChance">
             <English>VT Chance</English>
+            <Spanish>Probabilidad de TV</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AdvRhythm_asystoleBloodlossThreshold">
             <English>Asystole Bloodloss Threshold</English>
+            <Spanish>Umbral de pérdida de sangre en asistolia</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AdvRhythm_CPR_ROSC_Chance">
             <English>ROSC After CPR Chance</English>
+            <Spanish>Probabilidad de recuperación de la respiración espontánea tras RCP</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AdvRhythm_AED_ROSC_Chance">
             <English>ROSC After AED Chance</English>
+            <Spanish>Probabilidad de recuperación de la respiración espontánea tras DEA</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AdvRhythm_Hardcore_Enable">
             <English>Hardcore Rhythms</English>
+            <Spanish>Ritmos extremos</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AdvRhythm_hardcoreDeteriorationChance">
             <English>Hardcore Deterioration Chance</English>
+            <Spanish>Probabilidad de deterioro extremo</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SubCategory_BloodDraw">
             <English>Blood draw Settings</English>
@@ -1938,12 +1991,15 @@
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AED_X_VitalsMonitor_SoundsSelect">
             <English>AED-X Vitals Monitor Sounds</English>
+            <Spanish>Sonidos de constantes vitales del monitor DEA-X</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AED_X_VitalsMonitor_SoundsSelect_Original">
             <English>Original</English>
+            <Spanish>Original</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AED_X_VitalsMonitor_SoundsSelect_Default">
             <English>Default</English>
+            <Spanish>Por defecto</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_Threshold_SpO2Warning">
             <English>AED-X alarm SpO2 threshold</English>
@@ -1953,22 +2009,27 @@
             <Japanese>AED-XのSpO2警告音のしきい値</Japanese>
             <French>Seuil d'alarme de SpO2 de l'AED-X</French>
             <Italian>Soglia di allarme della SpO2 del AED-X</Italian>
-            <Spanish>Umbral de alarma de SpO2 del AED-X</Spanish>
+            <Spanish>Umbral de alarma de SpO2 del DEA-X</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AED_X_VitalsMonitor_BloodPressureInterval">
             <English>AED-X Vitals Monitor BP Measurement Interval</English>
+            <Spanish>Intervalo de medición de la PA en monitor de constantes vitales DEA-X</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AED_X_VitalsMonitor_BloodPressureInterval_AutomaticInstant">
             <English>Automatic Instant</English>
+            <Spanish>Automático Instantáneo</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AED_X_VitalsMonitor_BloodPressureInterval_Automatic">
             <English>Automatic (Interval)</English>
+            <Spanish>Automático (intervalo)</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AED_X_VitalsMonitor_BloodPressureInterval_Manual">
             <English>Manual</English>
+            <Spanish>Manual</Spanish>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AED_X_VitalsMonitor_BloodPressureInterval_Time">
             <English>AED-X Vitals Monitor BP Measurement Interval Time</English>
+            <Spanish>Tiempo de ntervalo de medición de la PA en monitor de constantes vitales DEA-X</Spanish>
         </Key>
     </Package>
 </Project>

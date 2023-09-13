@@ -163,6 +163,7 @@
         </Key>
         <Key ID="STR_KAT_Zeus_CardiacState_Module_displayname">
             <English>Change Cardiac State</English>
+            <Spanish>Cambiar el estado cardíaco</Spanish>
         </Key>
         <Key ID="STR_KAT_Zeus_checkmedical_Module_displayname">
             <English>Open unit medical menu</English>
@@ -198,12 +199,15 @@
         </Key>
         <Key ID="STR_KAT_Zeus_CardiacState_Module_VT">
             <English>Ventricular Tachycardia</English>
+            <Spanish>Taquicardia ventricular</Spanish>
         </Key>
         <Key ID="STR_KAT_Zeus_CardiacState_Module_VF">
             <English>Ventricular Fibrillation</English>
+            <Spanish>Fibrilación ventricular</Spanish>
         </Key>
         <Key ID="STR_KAT_Zeus_CardiacState_Module_PEA">
             <English>Pulseless Electrical Activity</English>
+            <Spanish>Actividad eléctrica sin pulso</Spanish>
         </Key>
         <Key ID="STR_KAT_Zeus_CardiacState_Module_Asystole">
             <English>Asystole</English>
